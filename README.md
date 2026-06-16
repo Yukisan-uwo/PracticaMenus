@@ -129,21 +129,22 @@ Cabecera personalizada que incluye:
 
 ---
 
-## 📸 Capturas de Pantalla
-
-> Agrega aquí las capturas de pantalla de tu aplicación
-
-### MainActivity
-![MainActivity - Toolbar Menu](./screenshots/mainactivity.png)
-
-### MainActivity2
-![MainActivity2 - Navigation Drawer](./screenshots/mainactivity2.png)
+## 📸 Capturas de Pantalla del resultado
 
 ### Drawer Abierto
-![Drawer Navigation](./screenshots/drawer_open.png)
+<img width="1280" height="2856" alt="image" src="https://github.com/user-attachments/assets/939e5456-1b5d-4576-92d4-4df5e8661c5f" />
+
 
 ### Fragmentos
-![Fragmentos](./screenshots/fragments.png)
+<img width="1280" height="2856" alt="image" src="https://github.com/user-attachments/assets/caecf8be-dcfe-497b-a645-2cbda5ac4fef" />
+
+---
+
+<img width="1280" height="2856" alt="image" src="https://github.com/user-attachments/assets/05b03479-ef12-4aee-bf8c-51692005f574" />
+
+---
+
+<img width="1280" height="2856" alt="image" src="https://github.com/user-attachments/assets/33b94bca-5085-4a7c-a74a-722b07eb07a5" />
 
 ---
 
@@ -293,7 +294,7 @@ Este proyecto es de código abierto y está disponible bajo la licencia MIT.
 
 ## 👨‍💻 Autor
 
-**Yukisan-uwo**
+**Mario Zambrano**
 
 - GitHub: [@Yukisan-uwo](https://github.com/Yukisan-uwo)
 - Repositorio: [PracticaMenus](https://github.com/Yukisan-uwo/PracticaMenus)
